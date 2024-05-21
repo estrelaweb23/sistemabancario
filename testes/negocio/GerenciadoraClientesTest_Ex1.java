@@ -22,7 +22,7 @@ public class GerenciadoraClientesTest_Ex1 {
 	Cliente cliente03 = new Cliente(3,"Aline Santana",33,"alinesantanaweb@hotmail.com",3,true);
 	Cliente cliente04 = new Cliente(4,"Daniele Nobre",36,"danielenobre@gmail.com",4,true);
 		
-	//inserindo alguns clientes criados na lista do banco
+
 	
 	List<Cliente> clientesDoBanco = new ArrayList<>();
 	clientesDoBanco.add(cliente01);
